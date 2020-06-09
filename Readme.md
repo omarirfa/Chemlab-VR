@@ -6,4 +6,4 @@ SDP I is the proposal phase of what the individuals would like to work on, goals
 
 While, SDP II was the implementation of the project. SDP I and SDP II folders contain documentation for both phases of the project.
 
-![ScreenShot]('/master/Lab pics/lab scene only'.png)
+
